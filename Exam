@@ -1,0 +1,8 @@
+class Exam{
+int id;
+string name;
+string fname;
+float salary;
+
+
+}
